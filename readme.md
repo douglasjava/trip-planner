@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/WesGtoX/tripplanner">
+   <a href="https://github.com/douglasjava/tripplanner">
      <img src="assets/logo-tripplanner.png" alt="TripPlanner" title="TripPlanner" width="250px">
    </a>
 </p>
@@ -14,7 +14,7 @@ A travel planning application created using React Native.
 
 Made in the [Hands-on React Native](https://www.devpleno.com/) course by [Tulio Faria](https://github.com/tuliofaria)
 
-Author: [Wesley Mendes](https://github.com/WesGtoX)
+Author: [Douglas Dias](https://github.com/douglasjava)
 
 ## About the Framework ##
 
